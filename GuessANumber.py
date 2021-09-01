@@ -1,4 +1,4 @@
-# GuessANumber.py
+# GuessANumber.py v1.0
 import random
 
 generatedNumber = random.randrange(1, 10)
