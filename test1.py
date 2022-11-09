@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 #define Accumulate
-package Accumulate;
+package Accumulate ;
 
 sub accumulate {
     my $listref = shift;
