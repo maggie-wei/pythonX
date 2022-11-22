@@ -1,2 +1,2 @@
 # pythonX
-# Repositories of python projects
+#Repositories of python projects
