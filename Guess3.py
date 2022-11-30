@@ -11,7 +11,5 @@ elif userGuess < generatedNumber:
     print("Your guess is too low")
 else:
     print("Your guess is too high")
-    
-
-    
+        
     
