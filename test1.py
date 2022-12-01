@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-#define Accumulate
+# define Accumulate
 package Accumulate ;
 
 sub accumulate {
