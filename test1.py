@@ -2,7 +2,6 @@
 
 # define Accumulate
 package Accumulate ;
-
 sub accumulate {
     my $listref = shift;    
     my $operation = shift;
