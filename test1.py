@@ -11,6 +11,7 @@ sub accumulate {
         push @$answers, $operation->($i);
     }
     return $answers;
+    
 }
 
 1;
