@@ -7,6 +7,7 @@ userGuess = int(input('Guess a number in the range 1-10:'))
 
 if userGuess == generatedNumber:
     print("You are correct")    
+    
 elif userGuess < generatedNumber :
     print("Your guess is too low !")
         
