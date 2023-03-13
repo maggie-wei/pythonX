@@ -8,6 +8,7 @@ if userGuess == generatedNumber:
     
     print("You are correct")   
     
+    
 elif userGuess < generatedNumber :
     print("Your guess is too low !")
         
