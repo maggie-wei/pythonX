@@ -4,6 +4,7 @@
 package Accumulate ;
 
 sub accumulate {
+
     my $listref = shift;    
     my $operation = shift;
     my $answers = [];
