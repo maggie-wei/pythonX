@@ -2,7 +2,6 @@
 
 import random
 
-
 generatedNumber = random.randrange(1, 10)
 userGuess = int(input('Guess a number in the range 1-10:'))
 
